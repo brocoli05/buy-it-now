@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|solutionrelative:buyitnowweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8B617BA-5588-4938-AA24-581CF30759DE}|BuyItNowWeb\\BuyItNowWeb.csproj|c:\\users\\cucum\\documents\\visual studio 2022\\buy-it-now\\buyitnow\\buyitnowweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BuyItNowWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BuyItNowWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:04:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\appsettings.json",
               "RelativeDocumentMoniker": "BuyItNowWeb\\appsettings.json",
@@ -46,69 +67,81 @@
               "RelativeToolTip": "BuyItNowWeb\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T00:06:21.614Z",
+              "WhenOpened": "2024-06-23T16:02:34.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BuyItNowWeb\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BuyItNowWeb\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T15:36:43.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "BuyItNowWeb\\Views\\Category\\Create.cshtml",
               "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Create.cshtml",
               "RelativeToolTip": "BuyItNowWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAtwCYAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T21:52:47.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BuyItNowWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BuyItNowWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T20:42:26.499Z"
+              "WhenOpened": "2024-06-23T15:20:42.613Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BuyItNowWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BuyItNowWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BuyItNowWeb\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BuyItNowWeb\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T20:40:44.683Z"
+              "WhenOpened": "2024-06-23T15:04:50.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BuyItNowWeb\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BuyItNowWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T19:13:06.422Z"
+              "WhenOpened": "2024-06-17T19:13:06.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BuyItNowWeb\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Models\\Category.cs",
               "RelativeToolTip": "BuyItNowWeb\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T19:10:54.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BuyItNowWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BuyItNowWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T20:42:26.499Z"
             }
           ]
         }
