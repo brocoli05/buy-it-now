@@ -1,4 +1,4 @@
-using BuyItNowWeb.Data;
+using BuyItNow.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

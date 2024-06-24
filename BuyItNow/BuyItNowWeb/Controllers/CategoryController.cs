@@ -1,5 +1,5 @@
-﻿using BuyItNowWeb.Data;
-using BuyItNowWeb.Models;
+﻿using BuyItNow.DataAccess.Data;
+using BuyItNow.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -77,6 +77,7 @@ namespace BuyItNowWeb.Controllers
             {
                 _db.Categories.Update(category); // update object 
                 _db.SaveChanges();  // apply the changes to the database
+                TempData["success"] = "Category updated successfully"; // notification
                 return RedirectToAction("Index", "Category");  // redirect to Index
             }
             return View();
@@ -106,7 +107,8 @@ namespace BuyItNowWeb.Controllers
             }
             _db.Categories.Remove(category);
 			_db.SaveChanges();  // apply the changes to the database
-			return RedirectToAction("Index", "Category");  // redirect to Index
+            TempData["success"] = "Category deleted successfully"; // notification
+            return RedirectToAction("Index", "Category");  // redirect to Index
 		}
 	}
 }

@@ -135,3 +135,9 @@ C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\obj\
 C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\obj\Debug\net8.0\BuyItNowWeb.pdb
 C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\obj\Debug\net8.0\BuyItNowWeb.genruntimeconfig.cache
 C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\obj\Debug\net8.0\ref\BuyItNowWeb.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\bin\Debug\net8.0\BuyItNow.DataAccess.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\bin\Debug\net8.0\BuyItNow.Models.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\bin\Debug\net8.0\BuyItNow.Utility.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\bin\Debug\net8.0\BuyItNow.DataAccess.pdb
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\bin\Debug\net8.0\BuyItNow.Models.pdb
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNowWeb\bin\Debug\net8.0\BuyItNow.Utility.pdb

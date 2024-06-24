@@ -1,4 +1,4 @@
-using BuyItNowWeb.Models;
+using BuyItNow.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

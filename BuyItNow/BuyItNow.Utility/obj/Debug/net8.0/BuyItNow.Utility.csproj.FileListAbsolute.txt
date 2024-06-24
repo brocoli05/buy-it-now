@@ -1,0 +1,12 @@
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\bin\Debug\net8.0\BuyItNow.Utility.deps.json
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\bin\Debug\net8.0\BuyItNow.Utility.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\bin\Debug\net8.0\BuyItNow.Utility.pdb
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.AssemblyInfoInputs.cache
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.AssemblyInfo.cs
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.sourcelink.json
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\refint\BuyItNow.Utility.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.pdb
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\ref\BuyItNow.Utility.dll
