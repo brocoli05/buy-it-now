@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuyItNowRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45c29a647134b55c10503dcf59e7ea2f784601b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f1b462a712d059d5ac34548b381457d39b8718")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuyItNowRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuyItNowRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

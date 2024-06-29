@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuyItNow.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45696c5dfb7340ddcd5dfbf0c55c2fad0be0ab2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f1b462a712d059d5ac34548b381457d39b8718")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuyItNow.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuyItNow.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

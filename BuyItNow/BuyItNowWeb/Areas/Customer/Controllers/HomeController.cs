@@ -2,8 +2,9 @@ using BuyItNow.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BuyItNowWeb.Controllers
+namespace BuyItNowWeb.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
