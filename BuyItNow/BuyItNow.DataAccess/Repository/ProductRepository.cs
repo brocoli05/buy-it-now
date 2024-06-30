@@ -4,25 +4,25 @@ using BuyItNow.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace BuyItNow.DataAccess.Repository
 {
-	public class UnitOfWork : IUnitOfWork
+	public class ProductRepository : Repository<Product>, IProductRepository
 	{
+		// implement functions that already have in generic Repository interface
+
 		private ApplicationDbContext _db;
-		public ICategoryRepository Category { get; private set; }
-		public IProductRepository Product { get; private set; }
-		public UnitOfWork(ApplicationDbContext db) 
-		{ 
-			_db = db;
-			Category = new CategoryRepository(_db);
-			Product = new ProductRepository(_db);
-		}
-		public void Save()
+		public ProductRepository(ApplicationDbContext db) : base(db)
 		{
-			_db.SaveChanges();
+			_db = db;
+		}
+
+		public void Update(Product product)
+		{
+			_db.Update(product);
 		}
 	}
 }

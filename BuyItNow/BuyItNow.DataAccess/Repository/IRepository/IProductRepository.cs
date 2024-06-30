@@ -8,10 +8,8 @@ using System.Threading.Tasks;
 
 namespace BuyItNow.DataAccess.Repository.IRepository
 {
-    public interface IUnitOfWork
-    {
-        ICategoryRepository Category { get; }
-        IProductRepository Product { get; }
-        public void Save();
-    }
+	public interface IProductRepository : IRepository<Product>
+	{
+		void Update(Product product);
+	}
 }
