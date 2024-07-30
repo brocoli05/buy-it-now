@@ -22,7 +22,26 @@ namespace BuyItNow.DataAccess.Repository
 
 		public void Update(Product product)
 		{
-			_db.Update(product);
+			// update object directly
+			//_db.Update(product);
+
+			// retrieve data from the database
+			var productFromDb = _db.Products.FirstOrDefault(u => u.Id == product.Id);
+			if (productFromDb != null)
+			{
+				productFromDb.Title = product.Title;
+				productFromDb.Description = product.Description;
+				productFromDb.ListPrice = product.ListPrice;
+				productFromDb.Price = product.Price;
+				productFromDb.Price50 = product.Price50;
+				productFromDb.Price100 = product.Price100;
+				productFromDb.CategoryId = product.CategoryId;
+
+				if (product.ImageUrl != null)
+				{
+					productFromDb.ImageUrl = product.ImageUrl;
+				}
+			}
 		}
 	}
 }

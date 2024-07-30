@@ -12,6 +12,6 @@ namespace BuyItNow.DataAccess.Repository.IRepository
     {
         ICategoryRepository Category { get; }
         IProductRepository Product { get; }
-        public void Save();
+        void Save();
     }
 }

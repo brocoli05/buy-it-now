@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\013ef78e-41b1-44a7-9b47-836801945662.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\013ef78e-41b1-44a7-9b47-836801945662.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\0ba3db74-088b-4812-bb1e-bf3f2bb25577.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0ba3db74-088b-4812-bb1e-bf3f2bb25577.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\233ecdaf-dc84-4738-8575-9c49e972bec6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\233ecdaf-dc84-4738-8575-9c49e972bec6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\336f7ee4-5124-4e93-a8f4-080933ffad1a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\336f7ee4-5124-4e93-a8f4-080933ffad1a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\8b9122be-133a-47e4-9fc0-48b1330db169.png",
+      "PackagePath": "staticwebassets\\images\\product\\8b9122be-133a-47e4-9fc0-48b1330db169.png"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\c63f83fb-16eb-44ab-bce3-69bd7e6317f1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c63f83fb-16eb-44ab-bce3-69bd7e6317f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\images\\product\\e29073e1-ee0c-44b7-a98d-7b44efef3cbd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e29073e1-ee0c-44b7-a98d-7b44efef3cbd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
