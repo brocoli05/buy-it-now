@@ -10,3 +10,4 @@ C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility
 C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\refint\BuyItNow.Utility.dll
 C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.pdb
 C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\ref\BuyItNow.Utility.dll
+C:\Users\cucum\Documents\Visual Studio 2022\buy-it-now\BuyItNow\BuyItNow.Utility\obj\Debug\net8.0\BuyItNow.Utility.csproj.AssemblyReference.cache

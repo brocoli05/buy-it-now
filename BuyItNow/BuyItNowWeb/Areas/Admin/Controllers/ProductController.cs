@@ -1,12 +1,15 @@
 ﻿using BuyItNow.DataAccess.Repository.IRepository;
 using BuyItNow.Models;
 using BuyItNow.Models.ViewModels;
+using BuyItNow.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BuyItNowWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

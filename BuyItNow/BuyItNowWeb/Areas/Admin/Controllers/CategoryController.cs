@@ -2,12 +2,15 @@
 using BuyItNow.DataAccess.Repository;
 using BuyItNow.DataAccess.Repository.IRepository;
 using BuyItNow.Models;
+using BuyItNow.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BuyItNowWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         // Dependency Injection (DI): less coupling
