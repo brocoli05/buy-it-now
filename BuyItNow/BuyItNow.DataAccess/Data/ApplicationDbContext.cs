@@ -14,6 +14,8 @@ namespace BuyItNow.DataAccess.Data
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Company> Companies { get; set; }
+        public DbSet<ShoppingCart> ShoppingCarts { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers {  get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -25,6 +27,35 @@ namespace BuyItNow.DataAccess.Data
                 new Category { Id = 2, Name = "SciFi", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "History", DisplayOrder = 3 }
                 );
+
+            modelBuilder.Entity<Company>().HasData(
+               new Company { 
+                   Id = 1, 
+                   Name = "Tech Solution", 
+                   StreetAddress = "123 Tech St", 
+                   City = "Tech City",
+                   PostalCode = "12121", 
+                   State = "IL", 
+                   PhoneNumber = "1234567890"
+               },
+               new Company { 
+                   Id = 2, 
+                   Name = "Vivid Holdings", 
+                   StreetAddress = "2350 Bay St", 
+                   City = "Vid City", 
+                   PostalCode = "55842", 
+                   State = "OH", 
+                   PhoneNumber = "456123879" 
+               },
+               new Company { 
+                   Id = 3, 
+                   Name = "Leading Tech", 
+                   StreetAddress = "200 Main Ave", 
+                   City = "New City", 
+                   PostalCode = "45625", 
+                   State = "NY", 
+                   PhoneNumber = "2254354000" }
+               );
 
             modelBuilder.Entity<Product>().HasData(
                 new Product

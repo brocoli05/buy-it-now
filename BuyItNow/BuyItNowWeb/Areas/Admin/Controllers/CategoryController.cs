@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 namespace BuyItNowWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    //[Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         // Dependency Injection (DI): less coupling

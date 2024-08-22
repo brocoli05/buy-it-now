@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OP9Mi+ttBxVrdLczl6HL2tSJ/wo05ducwtgFs/0ILgo=",
+  "Hash": "kGf/U4Jue215dVXPfl328GvSNq5q1pf+o6PvNhOuLwc=",
   "Source": "BuyItNowWeb",
   "BasePath": "_content/BuyItNowWeb",
   "Mode": "Default",
@@ -1364,6 +1364,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\e29073e1-ee0c-44b7-a98d-7b44efef3cbd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BuyItNowWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\",
+      "BasePath": "_content/BuyItNowWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\cucum\\Documents\\Visual Studio 2022\\buy-it-now\\BuyItNow\\BuyItNowWeb\\wwwroot\\js\\product.js",
